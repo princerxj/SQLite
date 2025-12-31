@@ -1,0 +1,4 @@
+2025-12-31 09:04:09 - ArithmeticApp - DEBUG - Adding 10 + 2 gives = 12
+2025-12-31 09:04:09 - ArithmeticApp - DEBUG - Subtracting 15 - 9 gives = 6
+2025-12-31 09:04:09 - ArithmeticApp - DEBUG - Multiplying 8 * 2 gives = 10
+2025-12-31 09:04:09 - ArithmeticApp - DEBUG - Dividing 20 by 2 gives = 10.0

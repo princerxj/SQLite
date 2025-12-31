@@ -11,6 +11,15 @@ This repository was created for learning and practicing SQLite3 database operati
 - **`Module_SQLite3_Assignments_Questions.ipynb`** - Assignment questions for practicing SQLite3 concepts
 - **`Module_SQLite3_Assignments_Solution.ipynb`** - Complete solutions to the assignment questions
 
+### Backend Utilities
+- **`BackendUtilities/`** - Backend utility modules and scripts
+  - **`app.py`** - Backend application script
+  - **`logging.ipynb`** - Logging implementation notebook
+  - **`multiplelogger.ipynb`** - Multiple logger configuration examples
+  - **`logs/`** - Logging module directory
+    - **`logger.py`** - Logger implementation
+    - **`test.py`** - Test script for logging functionality
+
 ### Database Files
 - **`example.db`** - Example SQLite database
 - **`saleData.db`** - Sales data database for practice
@@ -19,10 +28,10 @@ This repository was created for learning and practicing SQLite3 database operati
 
 ## How to Use
 
-1. Install dependencies: `pip install -r requirements.txt`
-2. Start with `sqlite.ipynb` to learn basic SQLite3 operations
-3. Practice with assignments in `Module_SQLite3_Assignments_Questions.ipynb`
-4. Check your solutions against `Module_SQLite3_Assignments_Solution.ipynb`
+1. Start with `sqlite.ipynb` to learn basic SQLite3 operations
+2. Practice with assignments in `Module_SQLite3_Assignments_Questions.ipynb`
+3. Check your solutions against `Module_SQLite3_Assignments_Solution.ipynb`
+4. Explore backend utilities and logging implementations in `BackendUtilities/`
 
 ## Notes
 
